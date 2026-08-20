@@ -1,0 +1,23 @@
+{
+  "name": "embodystar",
+  "version": "1.0.0",
+  "description": "TypeScript SDK For EmbodyStar",
+  "keywords": [
+    "embody"
+  ],
+  "homepage": "https://github.com/embodystar/embodystar-ts#readme",
+  "bugs": {
+    "url": "https://github.com/embodystar/embodystar-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embodystar/embodystar-ts.git"
+  },
+  "license": "ISC",
+  "author": "iam6iu8a@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
